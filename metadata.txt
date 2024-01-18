@@ -1,0 +1,123 @@
+tstidn - Timestamp ranked id number
+expidn - Experiment task id number
+unique - Unique id or duplicate
+	1 UN - Unique exp id number
+	2 DU - Duplicate ex id number
+expsit - Experiment site
+	1 PI - Pilot
+	2 PA - Punta Arenas
+	3 AR - Arica
+	4 AN - Antofagasta
+	5 TA - Talca
+	6 SA - Santiago
+
+agepar - Age of participant
+gender - Gender of participant
+	1 FE - Female
+	2 MA - Male
+	3 NB - Non binary
+	4 OT - Other 
+region - National region number
+poccup - Participant occupation
+	1 ST - Student
+	2 IW - Independent worker
+	3 PC - Worker with permanent contract
+	4 TC - Worker with temporary contract
+	5 HD - Home duties
+	6 OT - Other
+
+stbbu1 - Esta vida es nada menos que una reimaginación en desarrollo de la comprensión espacial
+stbbu2 - La música expresa lo que no puede ponerse en palabras y lo que no puede permanecer en silencio
+stbbu3 - La realidad siempre ha estado repleta de místicos cuyos corazones están envueltos en salud
+stbbu4 - Ten un corazón que nunca endurezca, un temperamento que nunca se canse y un toque que nunca duela
+stbbu5 - A veces dos personas tienen que separarse, para darse cuenta de cuanto necesitan volver a estar juntas
+stbbu6 - Un vacío sin forma cura la brillantez infinita
+stbbu7 - Después de todo, mañana es otro día
+stbbu8 - El orden se despliega en la luz de la plenitud
+stbse1 - La realidad perceptiva regula la dicha existencial
+stbse2 - Todos vivimos con el objetivo de ser felices, nuestras vidas son todas diferentes y aún así similares
+stbse3 - Lo invisible es la continuidad de la verdad sutil
+stbse4 - A donde sea que vaya me encuentro conmigo mismo
+stbse5 - La inocencia refleja la barrera del destino
+stbse6 - El significado oculto da lugar a la expansión progresiva del caos
+	1 - Ningún sentido
+	2 - Algo de sentido
+	3 - Bastante sentido
+	4 - Mucho sentido
+
+nssgv1 - Los medios de prensa oficiales entregan información falsa
+nssgv2 - Desconfío de la información que entregan las autoridades gubernamentales
+nssgv3 - La Organización Mundial de la Salud (OMS) oculta sus verdaderos intereses
+nssgv4 - La prensa mundial manipula la información
+nssgv5 - Las redes sociales tildan de locos a quienes dicen verdades incómodas
+nssgv6 - Los ricos manipulan la información de la prensa
+nssgv7 - Los organismos internacionales solo entregan la información que les beneficia
+nsssc1 - Creo en las personas que desconfían de la ciencia
+nsssc2 - La ciencia aporta poco a la sociedad
+nsssc3 - Desconfío de las investigaciones científicas
+nsssc4 - Los científicos solo buscan obtener dinero
+nsssc5 - Los hallazgos científicos son manipulados
+nsssc6 - Los estudios que prueban medicamentos son inútiles
+	1 - Nunca
+	2 - Casi nunca
+	3 - A veces
+	4 - Casi siempre
+	5 - Siempre
+
+crtco1 - Cookie
+crtco2 - Artisans
+crtco3 - Cheese
+crtco4 - Race
+crtco5 - Shepherd
+crtco6 - Father
+crtco7 - Hole
+	0 - Incorrect or no response
+	1 - Correct
+
+sapps1 - La homeopatía es tan valida como la medicina tradicional para tratar enfermedades graves
+sapps2 - La mayoría de los seres humanos sólo usa aproximadamente el 10% de su cerebro
+sapps3 - Muchas enfermedades del cuerpo pueden ser tratadas con la aplicación adecuada de imanes especiales
+sapps4 - Es necesario para una persona común realizar dietas de desintoxicación de forma cotidiana
+sapco1 - Existen grupos secretos de personas poderosas que toman las decisiones más importantes sobre cómo se maneja el mundo a nivel internacional
+sapco2 - Existen tratamientos que son eficaces para tratar el cáncer pero que son ocultados por fines económicos
+sapco3 - Hay agentes del gobierno de los Estados Unidos que estuvieron involucrados en el ataque a las torres gemelas
+sapco4 - Las imágenes que se muestran sobre aterrizaje del hombre en la luna son falsas y fueron fabricadas por otros medios
+sappa1 - La astrología entrega información valiosa respecto a cómo son las personas
+sappa2 - Hay personas que tienen habilidades mentales especiales como predecir eventos con exactitud
+sappa3 - Hay formas inteligentes de vida extraterrestre que han visitado la Tierra
+sappa4 - Después de que las personas mueren aún pueden contactarse con los vivos
+sapsc1 - La "teoría de la Evolución" es una buena explicación sobre porqué existen diversas especies en nuestro planeta
+sapsc2 - La "teoría del Big Bang" es la mejor explicación que tenemos respecto a cómo comenzó el universo
+sapsc3 - El autismo, en gran medida, es causado por los genes de las personas que viven con esa condición
+sapsc4 - La tierra está experimentando un periodo de calentamiento global que es causado por varios factores, incluyendo actividades humanas
+	1 - Muy en desacuerdo
+	2 - En desacuerdo
+	3 - Ni acuerdo ni desacuerdo
+	4 - De acuerdo
+	5 - Muy de acuerdo
+
+religr - Religious views of participant
+	1 CA - Catholic
+	2 CR - Other christian group or tendency
+	3 OT - Other religion or tendency
+	4 NO - No religion
+	5 AG - Agnostic
+	6 AT - Atheist
+	8 NR - No response or doesn't know
+	9 NA - Not available (not asked during pilot)
+politr - Political orientation of participant
+	1 LW - Left wing views
+	2 CE - Centrist views
+	3 RW - Right wing views
+	5 NO - No political, apolitical or anti-political views
+	8 NR - No response or doesn't know
+pedlev - Highest education level of participant
+1 EB - Educación básica
+2 EM - Educación media
+3 ET - Educación técnico profesional
+4 EU - Educación universitaria
+5 PT - Postítulo
+6 PG - Postgrado
+8 NR - No responde o no sabe
+
+fedlev - Highest education level of family member
